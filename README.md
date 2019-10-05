@@ -1,8 +1,7 @@
-# Vehicle-Screen-Interface-using-Enact
 
 <H1>Description </H1>
-<br> <b>Problem Statement</b> Improving safety in vehicles
-<br> <b>Main Idea </b> Employing the use of object detection, a system of sensors and user interface to engage users in the act of safety. This repository will focus on the user interface using WebOS Enact.
+<br> <b>Problem Statement:</b> Improving safety in vehicles
+<br> <b>Main Idea:</b> Employing the use of object detection, a system of sensors and user interface to engage users in the act of safety. This repository will focus on the user interface using WebOS Enact.
 
 <H1>Project</H1>
 
