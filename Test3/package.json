@@ -1,0 +1,55 @@
+{
+	"name": "test2",
+	"version": "1.0.0",
+	"description": "A general template for an Enact Moonstone application.",
+	"author": "",
+	"main": "src/index.js",
+	"scripts": {
+		"serve": "enact serve",
+		"pack": "enact pack",
+		"pack-p": "enact pack -p",
+		"watch": "enact pack --watch",
+		"clean": "enact clean",
+		"lint": "enact lint .",
+		"license": "enact license",
+		"test": "enact test",
+		"test-watch": "enact test --watch"
+	},
+	"license": "UNLICENSED",
+	"private": true,
+	"repository": "",
+	"enact": {
+		"theme": "moonstone"
+	},
+	"eslintConfig": {
+		"extends": "enact"
+	},
+	"eslintIgnore": [
+		"node_modules/*",
+		"build/*",
+		"dist/*"
+	],
+	"dependencies": {
+		"@enact/core": "^2.0.0",
+		"@enact/i18n": "^2.0.0",
+		"@enact/moonstone": "^2.0.0",
+		"@enact/spotlight": "^2.0.0",
+		"@enact/ui": "^2.0.0",
+		"@enact/webos": "^2.5.3",
+		"bluebird": "^3.5.5",
+		"here-maps-react": "^0.1.2",
+		"isomorphic-ws": "^4.0.1",
+		"lodash": "^4.17.11",
+		"prop-types": "^15.6.2",
+		"react": "^16.7.0",
+		"react-dom": "^16.7.0",
+		"react-draggable": "^3.3.0",
+		"react-draggable-component": "^6.0.0",
+		"react-here-maps": "^0.4.0",
+		"react-live-clock": "^3.1.0",
+		"react-notifications": "^1.4.3",
+		"react-redux": "^5.0.3",
+		"redux": "^3.6.0",
+		"ws": "^7.0.0"
+	}
+}

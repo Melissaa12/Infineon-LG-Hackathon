@@ -1,0 +1,24 @@
+{
+    "id": "com.yourdomain.app.services",
+    "description": "HelloWorld Service",
+    "services": [
+        {
+            "name": "com.yourdomain.app.services",
+            "description": "HelloWorld Service",
+            "commands": [
+                {
+                    "name": "hello",
+                    "public": true
+                },
+                {
+                    "name": "config/setGreeting",
+                    "public": true
+                },
+                {
+                    "name": "locale",
+                    "public": true
+                }
+            ]
+        }
+    ]
+}
