@@ -17,7 +17,7 @@ LG-WebOS and Enact.js enabled us to communicate everything into a user interface
 <H1>Learning Points </H1>
 <ul>
   <li>WebOS Enact.js</li>
-  <i>Javascript</li>
+  <li>Javascript</li>
   <li>HTML</li>
   <li>YOLO Object Detection </li>
   <li>Cloud communication </li>
