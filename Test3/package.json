@@ -39,7 +39,7 @@
 		"bluebird": "^3.5.5",
 		"here-maps-react": "^0.1.2",
 		"isomorphic-ws": "^4.0.1",
-		"lodash": "^4.17.11",
+		"lodash": "^4.17.21",
 		"prop-types": "^15.6.2",
 		"react": "^16.7.0",
 		"react-dom": "^16.7.0",
